@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1544433227 source:/home/leandro/Documentos/Segundo trabalho de TP/leandroteixeira-italosilva/main.cpp
+	<iostream>
+	<fstream>
+	"grafo.h"
+
+1544352790 source:/home/leandro/Documentos/Segundo trabalho de TP/leandroteixeira-italosilva/grafo.cpp
+	<iostream>
+	"grafo.h"
+
+1544352651 /home/leandro/Documentos/Segundo trabalho de TP/leandroteixeira-italosilva/grafo.h
+
+1544890974 source:d:\onedrive\ifmg-desktop-all7jb1\período 6\tp\segundo trabalho de tp\leandroteixeira-italosilva\grafo.cpp
+	<iostream>
+	"grafo.h"
+	<math.h>
+
+1544889331 d:\onedrive\ifmg-desktop-all7jb1\período 6\tp\segundo trabalho de tp\leandroteixeira-italosilva\grafo.h
+
+1544891389 source:d:\onedrive\ifmg-desktop-all7jb1\período 6\tp\segundo trabalho de tp\leandroteixeira-italosilva\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	"grafo.h"
+
